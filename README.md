@@ -40,6 +40,16 @@ This repository contains Jupyter Notebooks created as part of the **Mathematical
 - The notebooks demonstrate theoretical foundations, practical implementations, and illustrative examples.
 - These projects reflect collaborative work and learning efforts during the course. While they aim to showcase statistical methods, some areas might not follow best practices in real-world applications.
 
+---
+## Author
+
+**Dominik Sakłaski** – [GitHub](https://github.com/saklaskidominik)
+**Karolina Murzyn** – [GitHub](https://github.com/KarolinaMurzyn)
+**Jan Dworak** – [GitHub](https://github.com/janeczk)
+**Dominika Pudło** – [GitHub](https://github.com/puudelkoo)
+
+---
+
 Feel free to explore the repository for educational purposes or as a reference for statistical methods.
 
 ---
